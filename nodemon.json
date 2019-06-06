@@ -1,0 +1,12 @@
+
+    {
+        "env": {
+            "FIREBASE_API_KEY": "AIzaSyDkfTcEdfebhKMIuuEwI4Hz2ARqVFgMEb0",
+            "FIREBASE_AUTH_DOMAIN": "node-ejs-blog.firebaseapp.com",
+            "FIREBASE_DATABASE_URL": "https://node-ejs-blog.firebaseio.com",
+            "FIREBASE_PROJECT_ID": "node-ejs-blog",
+            "FIREBASE_STORAGE_BUCKET": "",
+            "FIREBASE_MESSAGING_SENDER_ID": "790997934823",
+            "FIREBASE_APP_ID": "1:790997934823:web:93d65d14ee574e22"
+        }
+    }
